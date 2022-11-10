@@ -1,2 +1,2 @@
 # pwendPass
-##Запуск ./leaks.py passwords.txt
+## Запуск ./leaks.py passwords.txt
